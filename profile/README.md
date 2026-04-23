@@ -1,4 +1,4 @@
-<img width="1456" height="636" alt="image" src="https://github.com/user-attachments/assets/1b329249-ea0d-4fde-b6ce-9840b100f3ae" />## PokkeDex ◓
+## PokkeDex ◓
 Gotta catch ’em all ⚡
 Your journey to master every Pokémon starts here.
 
